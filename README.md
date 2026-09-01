@@ -1,20 +1,34 @@
-# Sri Srinivasa Speciality Hospital
+# 🏥 Sri Srinivasa Speciality Hospital
 
-Landing page for Sri Srinivasa Speciality Hospital, a multi-specialty
-hospital in CV Raman Nagar, Bengaluru (Cardiology, Orthopaedics, Neurology,
-Pulmonology, Paediatrics, Diabetology).
+`Static Site` `HTML/CSS/JS` `Healthcare` `4.8★ Rated`
 
-## Tech stack
+> Top-rated multi-specialty hospital in CV Raman Nagar, Bengaluru.
 
-Static HTML, CSS, and vanilla JavaScript — no build step, no framework.
+## What is this?
 
-## Structure
+A landing page for Sri Srinivasa Speciality Hospital — Cardiology,
+Orthopaedics, Neurology, Pulmonology, Paediatrics, and Diabetology under
+one roof, with appointment contact details.
 
-- `index.html` — the page
-- `style.css` — styles
-- `script.js` — page behavior
+## ✨ Highlights
 
-## Running locally
+- 🩺 Specialty department showcase
+- ⭐ 4.8★ Google rating featured
+- ☎️ Appointment booking contact info
+
+## 🛠️ Tech Stack
+
+Static **HTML**, **CSS**, and vanilla **JavaScript** — no build step, no framework.
+
+## 📁 Structure
+
+```
+index.html      # the page
+style.css        # styles
+script.js        # page behavior
+```
+
+## 🚀 Running Locally
 
 ```bash
 python -m http.server 8000
